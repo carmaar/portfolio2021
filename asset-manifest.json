@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/carmaar/portfolio2021/static/css/main.d11ebacf.chunk.css",
-    "main.js": "/carmaar/portfolio2021/static/js/main.c434a100.chunk.js",
-    "main.js.map": "/carmaar/portfolio2021/static/js/main.c434a100.chunk.js.map",
+    "main.js": "/carmaar/portfolio2021/static/js/main.ab5717ed.chunk.js",
+    "main.js.map": "/carmaar/portfolio2021/static/js/main.ab5717ed.chunk.js.map",
     "runtime-main.js": "/carmaar/portfolio2021/static/js/runtime-main.36ecf165.js",
     "runtime-main.js.map": "/carmaar/portfolio2021/static/js/runtime-main.36ecf165.js.map",
-    "static/js/2.bfa4bb9c.chunk.js": "/carmaar/portfolio2021/static/js/2.bfa4bb9c.chunk.js",
-    "static/js/2.bfa4bb9c.chunk.js.map": "/carmaar/portfolio2021/static/js/2.bfa4bb9c.chunk.js.map",
+    "static/js/2.6916fa08.chunk.js": "/carmaar/portfolio2021/static/js/2.6916fa08.chunk.js",
+    "static/js/2.6916fa08.chunk.js.map": "/carmaar/portfolio2021/static/js/2.6916fa08.chunk.js.map",
     "index.html": "/carmaar/portfolio2021/index.html",
     "static/css/main.d11ebacf.chunk.css.map": "/carmaar/portfolio2021/static/css/main.d11ebacf.chunk.css.map",
-    "static/js/2.bfa4bb9c.chunk.js.LICENSE.txt": "/carmaar/portfolio2021/static/js/2.bfa4bb9c.chunk.js.LICENSE.txt",
+    "static/js/2.6916fa08.chunk.js.LICENSE.txt": "/carmaar/portfolio2021/static/js/2.6916fa08.chunk.js.LICENSE.txt",
     "static/media/BookwormStyleGuide.png": "/carmaar/portfolio2021/static/media/BookwormStyleGuide.ccb9a388.png",
     "static/media/bookwormproto.png": "/carmaar/portfolio2021/static/media/bookwormproto.2469310e.png",
     "static/media/bookwormscreen.png": "/carmaar/portfolio2021/static/media/bookwormscreen.bb7d1180.png",
@@ -22,8 +22,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.36ecf165.js",
-    "static/js/2.bfa4bb9c.chunk.js",
+    "static/js/2.6916fa08.chunk.js",
     "static/css/main.d11ebacf.chunk.css",
-    "static/js/main.c434a100.chunk.js"
+    "static/js/main.ab5717ed.chunk.js"
   ]
 }
