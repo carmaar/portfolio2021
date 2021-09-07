@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d11ebacf.chunk.css",
+    "main.js": "/static/js/main.c434a100.chunk.js",
+    "main.js.map": "/static/js/main.c434a100.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.9b2a7263.js",
+    "runtime-main.js.map": "/static/js/runtime-main.9b2a7263.js.map",
+    "static/js/2.a4c99fcd.chunk.js": "/static/js/2.a4c99fcd.chunk.js",
+    "static/js/2.a4c99fcd.chunk.js.map": "/static/js/2.a4c99fcd.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.d11ebacf.chunk.css.map": "/static/css/main.d11ebacf.chunk.css.map",
+    "static/js/2.a4c99fcd.chunk.js.LICENSE.txt": "/static/js/2.a4c99fcd.chunk.js.LICENSE.txt",
+    "static/media/BookwormStyleGuide.png": "/static/media/BookwormStyleGuide.ccb9a388.png",
+    "static/media/bookwormproto.png": "/static/media/bookwormproto.2469310e.png",
+    "static/media/bookwormscreen.png": "/static/media/bookwormscreen.bb7d1180.png",
+    "static/media/kennel-talk-diagonal-new.png": "/static/media/kennel-talk-diagonal-new.c3a66224.png",
+    "static/media/kennel-talk-style-guide.png": "/static/media/kennel-talk-style-guide.cd572581.png",
+    "static/media/logosmall.c3f1e19f.svg": "/static/media/logosmall.c3f1e19f.svg",
+    "static/media/personas.png": "/static/media/personas.fbe61320.png",
+    "static/media/ui-mockup-full.png": "/static/media/ui-mockup-full.73af8dd2.png",
+    "static/media/video.d48e2181.mp4": "/static/media/video.d48e2181.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9b2a7263.js",
+    "static/js/2.a4c99fcd.chunk.js",
+    "static/css/main.d11ebacf.chunk.css",
+    "static/js/main.c434a100.chunk.js"
+  ]
+}
